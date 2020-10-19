@@ -1,0 +1,5 @@
+IMPORTANT NOTE: 
+ALL-IDB must be considered as an image processing dataset. 
+Do not use the ALL-IDB content for diagnostic or different activities than the purpose of this initiative.
+
+
